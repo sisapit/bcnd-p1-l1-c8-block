@@ -5,5 +5,11 @@
   "main": "index.js",
   "repository": "https://github.com/sisapit/bcnd-p1-l1-c8-block.git",
   "author": "Sebastian Scheffler",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  },
+  "scripts": {
+    "go": "node index.js"
+  }
 }

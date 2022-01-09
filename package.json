@@ -1,0 +1,9 @@
+{
+  "name": "bcnd-p1-l1-c8-block",
+  "version": "1.0.0",
+  "description": "Blockchain Developer Nanodegree Project 1 Lesson 1 Concept 8",
+  "main": "index.js",
+  "repository": "https://github.com/sisapit/bcnd-p1-l1-c8-block.git",
+  "author": "Sebastian Scheffler",
+  "license": "MIT"
+}
